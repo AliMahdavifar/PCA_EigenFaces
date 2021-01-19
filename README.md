@@ -1,2 +1,2 @@
 # PCA_EigenFaces
-Reconstruction of images of known people using Principle Component Analysis (PCA) technique
+Reconstruction of images of known people using Principle Component Analysis (PCA) technique in unsupervised learning
